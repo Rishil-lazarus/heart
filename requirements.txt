@@ -2,4 +2,3 @@ pandas
 numpy
 sckit-learn
 pickle
-matplotlib
